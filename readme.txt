@@ -3,4 +3,6 @@ GridOS
 
 The Grid Computing! 
 The next generation operating system.
-GridOS
+
+See license.txt for copyright information. 
+GridOS 
