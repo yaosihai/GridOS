@@ -1,5 +1,6 @@
 GridOS
 ======
 
-The Grid Computing!
+The Grid Computing! 
+The next generation operating system.
 GridOS
